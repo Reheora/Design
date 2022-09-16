@@ -1,0 +1,25 @@
+.header {
+    height: 150px;
+    width: 100%;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.tel {
+    color: #fff;
+}
+
+.question {
+    color: #F19137;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
